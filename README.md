@@ -13,14 +13,11 @@ I'm a front-end developer at Ashdod Municipality.
 Have a desire to learn, make progress and succeed.
 
 
-
 ### Connect with me:
 
 <a href="http://David-Saal.com"><img  alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/davidsaal/"><img  alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-
-<br />
 
 ### Languages and Tools:
 
@@ -36,5 +33,5 @@ Have a desire to learn, make progress and succeed.
 <img alt="Python3"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" />
 <img alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-<br />
-<br />
+<br>
+<br>
