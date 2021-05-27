@@ -8,7 +8,7 @@
 
 ### A little bit about me:
 I'm a front-end developer at Ashdod Municipality.
-<br>You can be impressed of my wide variety projects that are in my repositories.
+<br>You can impressed my wide variety projects that in my repositories.
 <br>Looking for an opportunity to show my knowledge.
 Have a desire to learn, make progress and succeed.
 
