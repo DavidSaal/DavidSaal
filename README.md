@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm David Saal 👋</h1>
-<h2 align="center">I'm a Fullstack Developer</h2>
+<h2 align="center">Looking for a Fullstack position</h2>
 
 
 - 📕 Just finished learning React.js
